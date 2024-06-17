@@ -1,6 +1,6 @@
 # Data Extraction Repository
 
-This repository contains scripts and data related to extracting and analyzing geospatial data using QGIS.
+This repository contains scripts and data related to extracting and analyzing geospatial data using QGIS,Google Earth Engine, Python geemap package.
 
 ## Overview
 
